@@ -46,5 +46,6 @@ I’m currently pursuing a degree in 'Computer Programming' at 'Universidad de S
 
 <h2 align="center">Feel free to reach out using the link below. Thanks for visiting!</h2>
 <p align="center">
-  <a href="www.linkedin.com/in/nicolás-cernadas-5026b4247"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/nicolás-cernadas-5026b4247" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
+
