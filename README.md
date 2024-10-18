@@ -16,14 +16,14 @@ I’m currently pursuing a degree in **Computer Programming** at the **Universid
 
 <h3 align="center">Check out my projects!</h3>
 
-- **Assembler Project**: Created for *Sistemas de Procesamiento de Datos*, this is an x8086 Assembler project developed in a group.
+- **Assembler Project**: Created for *Data Processing Systems*, this is an x8086 Assembler project developed in a group.
 <br>
 <p align="center">
 <a href="https://github.com/nicocernadas/Assembler-Project.git"> <img width="400" alt="assemblerproj" src="https://github.com/user-attachments/assets/dd717303-2513-45ff-a763-99ec00a1bb96"> </a>
 </p>
 <br>
 
-- **Client Management Program**: Built for *Laboratorio de Computación II*, this C project manages store inventory and customer information with file handling.
+- **Client Management Program**: Built for *Computer Laboratory II*, this C project manages store inventory and customer information with file handling.
 <br>
 <p align="center">
 <a href="https://github.com/nicocernadas/Client-Management-Program.git"> <img width="410" alt="clientmng" src="https://github.com/user-attachments/assets/db5cd0fd-d671-420a-8921-e5a7c0341f41"> </a>
@@ -34,6 +34,7 @@ I’m currently pursuing a degree in **Computer Programming** at the **Universid
 <br>
 
 <h3 align="center">Frequently Used Technologies</h3>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,discord,github,py,vscode" alt="Technologies"/>
@@ -45,11 +46,12 @@ I’m currently pursuing a degree in **Computer Programming** at the **Universid
 <br>
 
 <h3 align="center">My Academic Journey</h3>
+<br>
 <p align="center">
     <strong>Completed Courses</strong>
 </p>
 <p align="center">
-    <em> Laboratory I and II, Electricity and Magnetism, Mathematics I and II, Data Processing Systems </em>
+    <em> Computer Laboratory I and II, Electricity and Magnetism, Mathematics I and II, Data Processing Systems </em>
 </p>
 <p align="center">
     <strong>Currently Studying</strong>
@@ -59,7 +61,7 @@ I’m currently pursuing a degree in **Computer Programming** at the **Universid
 </p>
 
 <p align="center">
-    <a href="https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica"> San Martin's University study program </a>
+    <a href="https://unsam.edu.ar/escuelas/ecyt/107/ciencia/programacion-informatica"> Universidad de San Martin's study program </a>
 </p>
 
 <br>
