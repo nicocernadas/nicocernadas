@@ -19,14 +19,14 @@ I’m currently pursuing a degree in **Computer Programming** at the **Universid
 - **Assembler Project**: Created for *Sistemas de Procesamiento de Datos*, this is an x8086 Assembler project developed in a group.
 <br>
 <p align="center">
-<a href="https://github.com/nicocernadas/Assembler-Project.git"> <img width="400" alt="assemblerproj" src="https://github.com/user-attachments/assets/dd717303-2513-45ff-a763-99ec00a1bb96"> </a>
+<a href="https://github.com/nicocernadas/Assembler-Project.git" target="_blank"> <img width="400" alt="assemblerproj" src="https://github.com/user-attachments/assets/dd717303-2513-45ff-a763-99ec00a1bb96"> </a>
 </p>
 <br>
 
 - **Client Management Program**: Built for *Laboratorio de Computación II*, this C project manages store inventory and customer information with file handling.
 <br>
 <p align="center">
-<a href="https://github.com/nicocernadas/Client-Management-Program.git"> <img width="410" alt="clientmng" src="https://github.com/user-attachments/assets/db5cd0fd-d671-420a-8921-e5a7c0341f41"> </a>
+<a href="https://github.com/nicocernadas/Client-Management-Program.git" target="_blank"> <img width="410" alt="clientmng" src="https://github.com/user-attachments/assets/db5cd0fd-d671-420a-8921-e5a7c0341f41"> </a>
 </p>
 
 <br>
