@@ -7,7 +7,7 @@
 
 I’m Nicolás, and I’m excited to share my journey with you.
 
-I’m currently pursuing a degree in **Computer Programming** at the **Universidad de San Martín**. Here, you’ll find a collection of my projects, where I apply the skills and concepts I’m learning. I’m always working on something new, so check back for updates!
+I’m currently pursuing a degree in **Computer Programming** at **Universidad de San Martín**. Here, you’ll find a collection of my projects, where I apply the skills and concepts I’m learning. I’m always working on something new, so check back for updates!
 
 <br>
 <hr>
