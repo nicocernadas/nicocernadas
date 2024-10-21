@@ -4,7 +4,6 @@
 </p>
 -->
 <h1 align="center">Welcome! <img width="50" src="https://github.com/user-attachments/assets/6408a269-1bdd-4fdf-a1ca-e714b140dedc"> </h1>
-Hi there!
 
 I’m Nicolás, and I’m excited to share my journey with you.
 
