@@ -6,7 +6,7 @@
 <h1 align="center">Welcome! <img width="50" src="https://github.com/user-attachments/assets/6408a269-1bdd-4fdf-a1ca-e714b140dedc"> </h1>
 Hi there!
 
-I’m Nicolás, and I’m excited to share this repository with you.
+I’m Nicolás, and I’m excited to share my journey with you.
 
 I’m currently pursuing a degree in **Computer Programming** at the **Universidad de San Martín**. Here, you’ll find a collection of my projects, where I apply the skills and concepts I’m learning. I’m always working on something new, so check back for updates!
 
