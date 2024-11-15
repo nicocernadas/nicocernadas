@@ -27,6 +27,13 @@ I’m currently pursuing a degree in **Computer Programming** at **Universidad d
 <p align="center">
 <a href="https://github.com/nicocernadas/Client-Management-Program.git"> <img width="410" alt="clientmng" src="https://github.com/user-attachments/assets/db5cd0fd-d671-420a-8921-e5a7c0341f41"> </a>
 </p>
+<br>
+
+- **Neural Network**: A project for *Mathematics III*, we developed neural networks to predict water potability and detect fraudulent credit card transactions, using data cleaning, preprocessing, and models built with Scikit-Learn and TensorFlow.
+<br>
+<p align="center">
+<a href="https://github.com/nicocernadas/Neural-Network.git"> <img width="410" alt="clientmng" src="https://github.com/user-attachments/assets/376c974a-5c3a-406f-a065-d3025fc7c46f"> </a>
+</p>
 
 <br>
 <hr>
@@ -50,13 +57,13 @@ I’m currently pursuing a degree in **Computer Programming** at **Universidad d
     <strong>Completed Courses</strong>
 </p>
 <p align="center">
-    <em> Computer Laboratory I and II, Electricity and Magnetism, Mathematics I and II, Data Processing Systems </em>
+    <em> Computer Laboratory I and II, Electricity and Magnetism, Mathematics I, II & III, Data Processing Systems, Programming Paradigms I and Concepts of Architectures and Operating Systems </em>
 </p>
 <p align="center">
     <strong>Currently Studying</strong>
 </p>
 <p align="center">
-    <em> Mathematics III, Concepts of Architectures and Operating Systems, Programming Paradigms I </em>
+    <em> Local Networks, Numerical Methods and Programming Paradigms II </em>
 </p>
 
 <p align="center">
