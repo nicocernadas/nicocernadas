@@ -32,8 +32,15 @@ I’m currently pursuing a degree in **Computer Programming** at **Universidad d
 - **Neural Network**: A project for *Mathematics III*, we developed neural networks to predict water potability and detect fraudulent credit card transactions, using data cleaning, preprocessing, and models built with Scikit-Learn and TensorFlow.
 <br>
 <p align="center">
-<a href="https://github.com/nicocernadas/Neural-Network.git"> <img width="410" alt="clientmng" src="https://github.com/user-attachments/assets/376c974a-5c3a-406f-a065-d3025fc7c46f"> </a>
+<a href="https://github.com/nicocernadas/Neural-Network.git"> <img width="410" alt="neuralntw" src="https://github.com/user-attachments/assets/376c974a-5c3a-406f-a065-d3025fc7c46f"> </a>
 </p>
+
+- **Wollok Game - Pirate Bomb It**: Game created in Wollok for Programming Paradigms I. Collaborative project and first hands-on experience with OOP.
+<br>
+<p align="center">
+<a href="https://github.com/nicocernadas/Wollok-Game"> <img width="410" alt="wollokgm" src="https://github.com/user-attachments/assets/a3be5719-fc51-4a74-b100-059a18ccc86b"> </a>
+</p>
+
 
 <br>
 <hr>
