@@ -38,9 +38,8 @@ I’m currently pursuing a degree in **Computer Programming** at **Universidad d
 - **Wollok Game - Pirate Bomb It**: Game created in Wollok for Programming Paradigms I. Collaborative project and first hands-on experience with OOP.
 <br>
 <p align="center">
-<a href="https://github.com/nicocernadas/Wollok-Game"> <img width="410" alt="wollokgm" src="https://github.com/user-attachments/assets/a3be5719-fc51-4a74-b100-059a18ccc86b"> </a>
+<a href="https://github.com/nicocernadas/Wollok-Game"> <img width="410" alt="wollokgm" src="https://github.com/user-attachments/assets/391ce87b-3d95-4687-99b6-b3eeebbc0689"> </a>
 </p>
-
 
 <br>
 <hr>
