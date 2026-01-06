@@ -63,13 +63,13 @@ I’m currently pursuing a degree in **Computer Programming** at **Universidad d
     <strong>Completed Courses</strong>
 </p>
 <p align="center">
-    <em> Computer Laboratory I and II, Electricity and Magnetism, Mathematics I, II & III, Data Processing Systems, Programming Paradigms I and Concepts of Architectures, Operating Systems, Local Networks, Numerical Methods and Programming Paradigms II </em>
+    <em> Computer Laboratory I and II, Electricity and Magnetism, Mathematics I, II & III, Data Processing Systems, Programming Algorithms I, II & III, Concepts of Architectures and Operating Systems, Local Networks, Numerical Methods, Seminar on Concurrent-Distributed Programming and Databases </em>
 </p>
 <p align="center">
     <strong>Currently Studying</strong>
 </p>
 <p align="center">
-    <em> Algorithms III, Seminar on Concurrent-Distributed Programming and Databases </em>
+    <em> Software Projects, Programming with Modern Tools, Programming Paradigms </em>
 </p>
 
 <p align="center">
