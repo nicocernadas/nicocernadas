@@ -15,6 +15,18 @@ I’m currently pursuing a degree in **Computer Programming** at **Universidad d
 
 <h3 align="center">Check out my projects!</h3>
 
+- **Neural Network**: A project for *Mathematics III*, we developed neural networks to predict water potability and detect fraudulent credit card transactions, using data cleaning, preprocessing, and models built with Scikit-Learn and TensorFlow.
+<br>
+<p align="center">
+<a href="https://github.com/nicocernadas/Neural-Network.git"> <img width="410" alt="neuralntw" src="https://github.com/user-attachments/assets/376c974a-5c3a-406f-a065-d3025fc7c46f"> </a>
+</p>
+
+- **Full-Stack project - Algo que pedir**: End-to-end web system developed with React, TypeScript & Svelte on the front end. Kotlin with Spring Boot on the back end.
+<br>
+<p align="center">
+<a href="https://github.com/nicocernadas/Algo-que-pedir"> <img width="476" height="141" alt="image" src="https://github.com/user-attachments/assets/0db91326-925e-4e9f-ad23-463afe10d612"> </a>
+</p>
+
 - **Assembler Project**: Created for *Data Processing Systems*, this is an x8086 Assembler project developed in a group.
 <br>
 <p align="center">
@@ -29,23 +41,12 @@ I’m currently pursuing a degree in **Computer Programming** at **Universidad d
 </p>
 <br>
 
-- **Neural Network**: A project for *Mathematics III*, we developed neural networks to predict water potability and detect fraudulent credit card transactions, using data cleaning, preprocessing, and models built with Scikit-Learn and TensorFlow.
-<br>
-<p align="center">
-<a href="https://github.com/nicocernadas/Neural-Network.git"> <img width="410" alt="neuralntw" src="https://github.com/user-attachments/assets/376c974a-5c3a-406f-a065-d3025fc7c46f"> </a>
-</p>
-
 - **Wollok Game - Pirate Bomb It**: Game created in Wollok for Programming Paradigms I. Collaborative project and first hands-on experience with OOP.
 <br>
 <p align="center">
 <a href="https://github.com/nicocernadas/Wollok-Game"> <img width="410" alt="wollokgm" src="https://github.com/user-attachments/assets/391ce87b-3d95-4687-99b6-b3eeebbc0689"> </a>
 </p>
 
-- **Wollok Game - Pirate Bomb It**: Game created in Wollok for Programming Paradigms I. Collaborative project and first hands-on experience with OOP.
-<br>
-<p align="center">
-<a href="https://github.com/nicocernadas/Algo-que-pedir"> <img width="491" height="127" alt="image" src="https://github.com/user-attachments/assets/0abd4d9e-269d-450f-8e56-4ad5a90aaa75" /> </a>
-</p>
 
 <br>
 <hr>
