@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/da9f1d0b-bac0-43c7-9e91-788a4824cff6" alt="planets" height=400 width="100%">
 </p>
 -->
-<h1 align="center">Welcome! <img width="50" src="https://github.com/user-attachments/assets/6408a269-1bdd-4fdf-a1ca-e714b140dedc"> </h1>
+<h1 align="center">Welcome to my repository! </h1>
 
 I’m Nicolás, and I’m excited to share my journey with you.
 
