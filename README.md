@@ -90,7 +90,7 @@ I completed my degree in **Computer Programming** at **Universidad de San Martí
 
 <h3 align="center">Let's get in touch!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-cernadas-5026b4247">
+  <a href="https://www.linkedin.com/in/nicolas-cernadas">
     <img src="https://img.shields.io/badge/LinkedIn-Nicolás_Cernadas-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p>
