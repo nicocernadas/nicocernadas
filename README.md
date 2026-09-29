@@ -12,7 +12,7 @@ I completed my degree in **Computer Programming** at **Universidad de San Martí
 
 <h3 align="center">Currently Building</h3>
 
-- **Il Capo - Group Ordering App** <img src="https://img.shields.io/badge/Private_repository-6e7681?logo=github&logoColor=white" alt="Private repository" align="top"/>
+- **Group Ordering App** <img src="https://img.shields.io/badge/Private_repository-6e7681?logo=github&logoColor=white" alt="Private repository" align="top"/>
 <br>A web app for group dinners at a bar: each guest orders from the full menu on their own phone, and every order syncs live across all devices. It keeps a running tally per table round and per person, applies a cash discount and time-limited Happy Hour pricing, and gives the host tools to close rounds, void items and disable sold-out products. Built with React, TypeScript, Vite and Tailwind CSS on top of Supabase (PostgreSQL with real-time sync), and tested with Vitest and Testing Library, including the database schema running on an in-memory Postgres.
 
 - **Fitness App** <img src="https://img.shields.io/badge/Private_repository-6e7681?logo=github&logoColor=white" alt="Private repository" align="top"/>
